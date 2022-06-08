@@ -1,14 +1,16 @@
 {
-  "name": "api-practice",
+  "name": "hero-card-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "heroku": "^7.60.2"
   }
 }
+ 
